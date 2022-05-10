@@ -12,26 +12,32 @@ Attempting the 100DaysOfCode with Python. I'm following the "100 Days of Code - 
 - [Day 5](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day5): Python Loops
 - [Day 6](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day6): Python Functions & Karel
 - [Day 7](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day7): Hangman
-- Day 8: 
-- Day 9: 
-- Day 10: 
-- Day 11: 
-- Day 12: 
-- Day 13: 
-- Day 14: 
-- Day 15: 
-- Day 16: 
-- Day 17: 
-- Day 18: 
-- Day 19: 
-- Day 20: 
-- Day 21: 
-- Day 22: 
-- Day 23: 
-- Day 24: 
-- Day 25: 
-- Day 26: 
-- Day 27: 
-- Day 28: 
-- Day 29:
-- Day 30:  
+- [Day 8](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day8): Function Parameters & Caesar Cipher
+- [Day 9](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day9):
+- [Day 10](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day10):
+- [Day 11](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day11):
+- [Day 12](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day12):
+- [Day 13](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day13):
+- [Day 14](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day14):
+- [Day 15](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day15):
+- [Day 16](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day16):
+- [Day 17](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day17):
+- [Day 18](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day18):
+- [Day 19](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day19):
+- [Day 20](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day20):
+- [Day 21](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day21):
+- [Day 22](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day22):
+- [Day 23](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day23):
+- [Day 24](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day24):
+- [Day 25](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day25):
+- [Day 26](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day26):
+- [Day 27](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day27):
+- [Day 28](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day28):
+- [Day 29](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day29):
+- [Day 30](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day30):
+- [Day 31](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day31):
+- [Day 32](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day32):
+- [Day 33](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day33):
+- [Day 34](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day34):
+- [Day 35](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day35):
+
