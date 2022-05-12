@@ -1,0 +1,9 @@
+Dictionaries
+- Dictionaries in python kinda work like real Dictionaries
+- Two parts to it 
+    - Key + Vaule
+    - e.x. Key = Bug , Value = " An error in a program that prevents the program from running as expected"
+    - {key: Value}
+    - {"Bug": "An error in a program that prevents the program from running as expected"}
+    - can be seperate via commans
+    - Keys have to be a datatype? or correct datatype - can't just type words - will think it's a variable 
