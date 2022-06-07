@@ -24,3 +24,38 @@ print(programming_dictionary)
 for key in programming_dictionary:
     print(key)
     print(programming_dictionary[key])
+
+#Nesting
+capitals = {
+    "France": "Paris",
+    "Germany": "Berlin",
+}
+
+#Nesting a list in a dictionary
+
+tarval_log = {
+    "France": ["paris", "Lille", "Digjon"],
+    "Germany": ["Berlin", "Hamburg", "Stuttgart"],
+}
+
+#Nesting dictionary in a dictionary
+
+tarval_log_ = {
+    "France": {"cities_visitied": ["paris", "Lille", "Digjon"], "total_visits": 12},
+    "Germany": ["Berlin", "Hamburg", "Stuttgart"],
+}
+
+#Nesting Dictionary in a List
+
+tarval_log_ = [
+    {
+        "country": "France", 
+        "cities_visited": ["paris", "Lille", "Digjon"], 
+        "total_visits": 12
+        },
+    {
+        "country": "Germany", 
+        "cities_visited": ["Berlin", "Hamburg", "Stuttgart"], 
+        "total_visits": 5
+        },
+]
