@@ -13,7 +13,7 @@ Attempting the 100DaysOfCode with Python. I'm following the "100 Days of Code - 
 - [Day 6](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day6): Python Functions & Karel
 - [Day 7](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day7): Hangman
 - [Day 8](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day8): Function Parameters & Caesar Cipher
-- [Day 9](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day9):
+- [Day 9](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day9): Dictionaries, Nesting and The Secret Auction
 - [Day 10](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day10):
 - [Day 11](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day11):
 - [Day 12](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day12):
