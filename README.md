@@ -15,7 +15,7 @@ Attempting the 100DaysOfCode with Python. I'm following the "100 Days of Code - 
 - [Day 8](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day8): Function Parameters & Caesar Cipher
 - [Day 9](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day9): Dictionaries, Nesting and The Secret Auction
 - [Day 10](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day10): Functions with Outputs
-- [Day 11](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day11):
+- [Day 11](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day11): Blackjack Game
 - [Day 12](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day12):
 - [Day 13](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day13):
 - [Day 14](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day14):
