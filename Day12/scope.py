@@ -11,7 +11,7 @@ def increase_enemies():
 increase_enemies()
 print(f"enemies outside function: {enemies}")
 
------------------------------------------------------------------------
+#-----------------------------------------------------------------------
 
 # Local Scope
 
@@ -24,7 +24,7 @@ drink_potion()
 # vairable NOT accessable outside drink_potion function
 print(potion_strength)
 
--------------------------------------------------------------------------
+#-------------------------------------------------------------------------
 
 #Global Scope
 player_health = 10
