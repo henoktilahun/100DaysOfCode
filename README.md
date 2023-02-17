@@ -17,7 +17,7 @@ Attempting the 100DaysOfCode with Python. I'm following the "100 Days of Code - 
 - [Day 10](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day10): Functions with Outputs
 - [Day 11](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day11): Blackjack Game
 - [Day 12](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day12): Scope & Number Guessing Game
-- [Day 13](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day13):
+- [Day 13](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day13): Debugging
 - [Day 14](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day14):
 - [Day 15](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day15):
 - [Day 16](https://github.com/henoktilahun/100DaysOfCode/tree/main/Day16):
